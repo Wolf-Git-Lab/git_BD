@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\unity\unity\bin\Debug\unity.exe.config
+C:\Users\Asus\source\repos\unity\unity\bin\Debug\unity.exe
+C:\Users\Asus\source\repos\unity\unity\bin\Debug\unity.pdb
+C:\Users\Asus\source\repos\unity\unity\obj\Debug\unity.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\unity\unity\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\source\repos\unity\unity\obj\Debug\App.g.cs
+C:\Users\Asus\source\repos\unity\unity\obj\Debug\unity_MarkupCompile.cache
+C:\Users\Asus\source\repos\unity\unity\obj\Debug\unity_MarkupCompile.lref
+C:\Users\Asus\source\repos\unity\unity\obj\Debug\MainWindow.baml
+C:\Users\Asus\source\repos\unity\unity\obj\Debug\unity.g.resources
+C:\Users\Asus\source\repos\unity\unity\obj\Debug\unity.Properties.Resources.resources
+C:\Users\Asus\source\repos\unity\unity\obj\Debug\unity.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\unity\unity\obj\Debug\unity.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\unity\unity\obj\Debug\unity.exe
+C:\Users\Asus\source\repos\unity\unity\obj\Debug\unity.pdb
